@@ -1,11 +1,11 @@
 {
-  "name": "bootstrap-theme-themestrap-sample",
+  "name": "bootstrap-theme-bootstrap",
   "version": "0.0.1",
   "private": true,
-  "author": "Your Name",
+  "author": "Andrew Jones",
   "main": "dist/bootstrap.css",
   "themestrap": {
-    "name": "Themestrap Sample",
+    "name": "Devomato Theme",
     "repo": "https://github.com/divshot/themestrap"
   },
   "ignore": [
